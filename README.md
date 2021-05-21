@@ -1,0 +1,1 @@
+This is a ToDo App created using pure vanilla javascript, HTML and CSS. 
